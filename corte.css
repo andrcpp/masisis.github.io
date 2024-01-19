@@ -1,14 +1,3 @@
-.BODYACKGROUND {
-
-	background-color: #003;
-    height: 160vh;
-
-	
-	
-	background-position: top;
-	background-size: cover;
-	
-}
 
 footer {
 	text-align: center;
@@ -45,4 +34,7 @@ h1 {
 	margin-right: auto;
 	width: 40%;
 
+}
+body {
+	background-color: #003;
 }
