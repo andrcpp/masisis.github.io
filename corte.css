@@ -1,9 +1,48 @@
-.box {
+.BACKGROUND {
 
-	background-image: url(bg.png);
-	height: 100vh;
+	background-color: #003;
+    height: 160vh;
+
 	
-	background-position: center;
+	
+	background-position: top;
 	background-size: cover;
 	
+}
+
+footer {
+	text-align: center;
+	padding: 3vh;
+	background-color: #70c070;
+	border: 1px solid black;
+	position: bottom;
+}
+
+h1 {
+
+	text-align: center;
+	background-color: #0ff;
+	padding: 3vh;
+}
+
+.parrafo1 {
+
+	text-align: center;
+	font-size: 5vh;
+	padding: 5vh;
+	color: #ffffff;
+}
+
+.eskiper {
+	position: center;
+	font-size: 10vh
+}
+
+.center {
+
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+
 }
